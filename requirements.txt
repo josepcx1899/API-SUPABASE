@@ -1,0 +1,11 @@
+express
+bcryptjs
+dotenv
+@supabase/supabase-js
+axios
+moment
+crypto
+nodemailer
+express-rate-limit
+helmet
+cors
